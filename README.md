@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @iamgordo
+- I recently started working on a simple platformer using Phaser 3. Download and play around with it!! It's how I learned, by reading other's code (I'm NO pro!!)👀
 - 👀 I’m interested in all things coding especially html/JavaScript/css. Starting years ago with a Vic 20, BASIC then to flash and action script 3, I continue to be fascinated with designing games and apps for the web.
 - 🌱 I’m currently learning Python/JS/TS/..and lately C, C++.
 - 💞️ I’m looking to collaborate on ...
